@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikaWarrior
-- 👀 I’m interested in .making attractive websties and games..
+- 👀 I’m interested in making attractive websites and games.
 - 🌱 I’m currently learning ..html/css/javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
